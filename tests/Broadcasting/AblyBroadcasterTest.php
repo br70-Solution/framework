@@ -9,7 +9,7 @@ use Mockery as m;
 use PHPUnit\Framework\TestCase;
 use Symfony\Component\HttpKernel\Exception\AccessDeniedHttpException;
 
-class AblyBroadcasterTest extends TestCase
+class AblyBroadcasterTest extends  TestCase
 {
     /**
      * @var \Illuminate\Broadcasting\Broadcasters\AblyBroadcaster
